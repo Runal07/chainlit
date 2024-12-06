@@ -1,4 +1,4 @@
-#!/mnt/c/Users/runal/OneDrive/Desktop/chainlit/env/bin/python3
+#!/mnt/c/Users/runal/OneDrive/Desktop/chainlit/env/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
